@@ -43,7 +43,7 @@ Reading Average Image(below)
 
 
 #### Scores by school spending, scores by school size, and scores by school type:
-There was very little impact regarding school spending, school size, and school type. The numbers would be the same if rounded to the whole number in the original data and updated data. The only changes that occured from the original data to the updated were shown in the hundredths place. 
+There was very little impact regarding school spending, school size, and school type. The numbers would be the same if rounded to the whole number in the original data and updated data. The only changes that occured from the original data to the updated data were shown in the hundredths place. 
 
  
 ## Summary
