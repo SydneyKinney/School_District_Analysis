@@ -14,13 +14,15 @@ Updated district analysis:
 
 ### - How is the school summary affected?
 
-
+Thomas High School originally had a 91% passing rate. After updating the analysis, Thomas High School had a passing rate of 65%. Replacing the math and reading scores with NaNs significantly affected the school summary. 
 
 Original district analysis:
-
+![Screen Shot 2022-07-08 at 3 09 13 PM](https://user-images.githubusercontent.com/107209737/178076839-1e8bba3c-a6fe-467c-99d5-75e523c90ce5.png)
+<img width="1076" alt="Screen Shot 2022-07-08 at 3 13 50 PM" src="https://user-images.githubusercontent.com/107209737/178076852-c9907284-9956-4202-899c-deabd640bde6.png">
 
 Updated district analysis:
-
+![Screen Shot 2022-07-08 at 3 09 13 PM](https://user-images.githubusercontent.com/107209737/178076762-201acb06-5504-44f7-b9b4-439f0fbd8502.png)
+![Screen Shot 2022-07-08 at 3 09 22 PM](https://user-images.githubusercontent.com/107209737/178076779-6fe6abea-db19-4025-9fbc-6a1f1a8afe6d.png)
 
 
 ### - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
