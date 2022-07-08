@@ -11,7 +11,18 @@ Original district analysis:
 
 Updated district analysis:
 ![Screen Shot 2022-07-08 at 2 48 03 PM](https://user-images.githubusercontent.com/107209737/178075225-83571e5f-a697-4e9f-94ef-79f022de1bbc.png)
+
 ### - How is the school summary affected?
+
+
+
+Original district analysis:
+
+
+Updated district analysis:
+
+
+
 ### - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### - How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
