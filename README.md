@@ -30,7 +30,17 @@ Updated district analysis:
 Thomas High School was originally ranked 2nd for the percentage of overall passing. However, after running the updated analysis,  there was a significant drop in passing rate and Thomas High School is no longer ranked 2nd compared to the other schools. Thomas High School is now ranked one of the lowest schools in comparison to the other schools.
 
 ### - How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
+#### Math and reading scores by grade:
+The original analysis showed that Thomas High School had a 83.6 math average and a 83.7 reading average for the 9th grade tests. Now the scores have been replaced with null values and shows up as NaN in the following charts.
+
+Math Average Image(below)
+
+![Screen Shot 2022-07-08 at 3 33 11 PM](https://user-images.githubusercontent.com/107209737/178078433-392b419d-106f-4c6e-9bf5-c3f7c02bf964.png)
+
+Reading Average Image(below)
+
+![Screen Shot 2022-07-08 at 3 33 22 PM](https://user-images.githubusercontent.com/107209737/178078440-c63075de-b094-4152-bb4e-1631b44e05f3.png)
+
 
 Scores by school spending
 
