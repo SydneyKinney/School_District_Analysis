@@ -26,6 +26,9 @@ Updated district analysis:
 
 
 ### - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Thomas High School was originally ranked 2nd for the percentage of overall passing. However, after running the updated analysis,  there was a significant drop in passing rate and Thomas High School is no longer ranked 2nd compared to the other schools. Thomas High School is now ranked one of the lowest schools in comparison to the other schools.
+
 ### - How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 
