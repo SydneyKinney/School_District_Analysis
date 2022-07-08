@@ -42,12 +42,9 @@ Reading Average Image(below)
 ![Screen Shot 2022-07-08 at 3 33 22 PM](https://user-images.githubusercontent.com/107209737/178078440-c63075de-b094-4152-bb4e-1631b44e05f3.png)
 
 
-Scores by school spending
-
-Scores by school size
-
-Scores by school type
-
+#### Scores by school spending, scores by school size, and scores by school type:
+There was very little impact regarding school spending, school size, and school type. The numbers would be the same if rounded to the whole number in the original data and updated data. The only changes that occured from the original data to the updated were shown in the hundredths place. 
 
  
 ## Summary
+After replacing the math and reading scores for Thomas High School with NaNs, the overall passing rate changed drastically from 91% to 65% and the schools ranking dropped. The data for the 9th grade Thomas High School students will now show "NaN." There were changes in the overall passing rate, the math averages, and the reading averages. However, the impacts were minimal regarding school spending, school size, and school type.
